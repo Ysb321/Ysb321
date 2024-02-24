@@ -1,6 +1,6 @@
 👋 Hey there! I'm a passionate frontend developer, constantly crafting pixel-perfect and user-friendly web experiences. 
 
-💻 My journey in the world of web development started a few years ago, and ever since then, I've been in love with turning creative ideas into reality.
+💻 My journey in the world of web development just started, and I've been in love with turning creative ideas into reality.
 
 ✨ With expertise in HTML, CSS, JavaScript, and the latest frontend frameworks like React, I strive to build responsive and dynamic websites that captivate users. 
 
