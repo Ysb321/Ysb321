@@ -20,4 +20,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ysb321&theme=onedark-duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ysb321&theme=onedark-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
