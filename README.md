@@ -1,4 +1,6 @@
-👋 Hey there! I'm a passionate Web developer, constantly crafting pixel-perfect and user-friendly web experiences. 
+<h1>👋 Hey there! </h1>
+
+I'm a passionate Web developer, constantly crafting pixel-perfect and user-friendly web experiences. 
 
 💻 My journey in the world of web development just started, and I've been in love with turning creative ideas into reality.
 
