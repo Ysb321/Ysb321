@@ -2,7 +2,7 @@
 
 💻 My journey in the world of web development just started, and I've been in love with turning creative ideas into reality.
 
-✨ With expertise in HTML, CSS, JavaScript, and the latest CSS frameworks like Tailwind CSS, Bootstrap. Also further I want to prepare for React.j, Angular. I strive to build responsive and dynamic websites that captivate users. 
+✨ With expertise in HTML, CSS, JavaScript, and the latest CSS frameworks like Tailwind CSS, Bootstrap. Also further I want to develop my skill in frameworks like React.js, Angular. I strive to build responsive and dynamic websites that captivate users. 
 
 💪 I believe that clean code is key, and I enjoy optimizing performance and ensuring cross-browser compatibility.
 
