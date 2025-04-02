@@ -3,17 +3,18 @@
 <h2> I'm a passionate Web developer </h2>
   
  
-💻 My journey in the world of web development just started, and I've been in love with turning creative ideas into reality, constantly crafting pixel-perfect and user-friendly web experiences. 
+👋 Hi, I'm Yashraj Boralkar!  
 
-✨ With expertise in HTML, CSS, JavaScript, and the latest CSS frameworks like Tailwind CSS, Bootstrap. Also further I want to develop my skill in frameworks like React.js, Angular. I strive to build responsive and dynamic websites that captivate users. 
+🔹 Aspiring .NET Developer | Passionate about Web Development  
+🔹 Skilled in **ASP.NET Core, C#, JavaScript, SQL, React, and Tailwind CSS**  
+🔹 Love building **scalable, responsive, and secure web applications**  
 
-💪 I believe that clean code is key, and I enjoy optimizing performance and ensuring cross-browser compatibility.
+🚀 Check out my projects:  
+🔗 Portfolio: [My Portfolio](https://portfolio-yashraj.pages.dev/)  
+🔗 GitHub: [Ysb321](https://github.com/Ysb321)  
+🔗 LinkedIn: [Yashraj Boralkar](https://linkedin.com/in/yashraj-boralkar)  
 
-🎨 Design is my muse, and I collaborate closely with designers to breathe life into their visions. I have an eye for detail and a knack for creating intuitive and visually appealing interfaces. 
-
-🚀 Constantly staying up-to-date with the latest trends and technologies in the frontend realm is my habit. I'm always eager to learn and incorporate new tools and techniques into my workflow.
-
-📫 Let's connect! Feel free to reach out to discuss exciting projects, share ideas, or just to say hi! I'm always excited about collaborating and creating amazing web experiences. 😊
+📫 Reach me at **yboralkar@gmail.com**  
 
 <!---
 Ysb321/Ysb321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
